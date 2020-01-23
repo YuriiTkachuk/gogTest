@@ -1,0 +1,44 @@
+{
+    "cards": [
+        {
+            "img": "Stars",
+            "text": "Between the Stars",
+            "discount": "50%",
+            "cost": "9.99",
+            "isOwned": false,
+            "id": 1
+        },
+        {
+            "img": "Crysis",
+            "text": "Crysis®",
+            "discount": "",
+            "cost": "",
+            "isOwned": true,
+            "id": 2
+        },
+        {
+            "img": "Wizardry",
+            "text": "Wizardry: Labyrinth of Lost Souls",
+            "discount": "",
+            "cost": "3.99",
+            "isOwned": false,
+            "id": 3
+        },
+        {
+            "img": "Dungeon",
+            "text": "Dungeon Keeper™ 2",
+            "discount": "50%",
+            "cost": "7.99",
+            "isOwned": false,
+            "id": 4
+        },
+        {
+            "img": "Bioforge",
+            "text": "Bioforge",
+            "discount": "",
+            "cost": "19.99",
+            "isOwned": false,
+            "id": 5
+        }
+    ]
+}
